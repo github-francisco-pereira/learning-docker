@@ -1,0 +1,18 @@
+<h1>Cidades</h1>
+
+<form action="/new" method="POST">
+    Cidade:
+    <input type="text" name="nome"></input>
+    <br /> País:
+    <input type="text" name="pais"></input>
+    <br />
+    <input type="submit" value="Gravar"></input>
+</form>
+
+<ul>
+    {% for item in items %}
+    <li type="disc">
+        <h3>{{ item.nome }} - {{ item.pais }} </h3>
+    </li>
+    {% endfor %}
+</ul>
