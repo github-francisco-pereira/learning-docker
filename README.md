@@ -8,8 +8,8 @@
 
 ## Como funciona
 
-- Cada pasta possui 1 tutorial, 1 video aula(possívelmente) e 1 desafio para consolidar seu conhecimento.
-- Ao término do desafio faça um PR para ser validado :).
+- Cada pasta possui 1 tutorial, 1 video aula(com toda a certeza) e 1 desafio para consolidar seu conhecimento.
+- Ao término do desafio faça um fork e PR para ser validado :).
 - Para começar você precisa somente ter o Docker e Docker compose instalado. Se não sabe instalar utilize os seguintes links:
 - [Windows][https://store.docker.com/editions/community/docker-ce-desktop-windows]
 - [Ubuntu][https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt]
